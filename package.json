@@ -1,0 +1,19 @@
+{
+  "name": "lumos-prac",
+  "version": "1.0.0",
+  "description": "practice of lumos",
+  "main": "index.js",
+  "author": "wancencen <wancencen@cryptape.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@ckb-lumos/base": "0.16.0",
+    "@ckb-lumos/common-scripts": "0.16.0",
+    "@ckb-lumos/config-manager": "0.16.0",
+    "@ckb-lumos/helpers": "0.16.0",
+    "@ckb-lumos/indexer": "0.16.0",
+    "bufferutility": "2.2.0",
+    "ckb-js-toolkit": "0.10.2",
+    "int64-buffer": "1.0.1",
+    "secp256k1": "4.0.2"
+  }
+}
